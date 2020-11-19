@@ -27,14 +27,17 @@ namespace SVNetworth
                     if (owner.Owner_Id == SVID)
                     {
                         decimal value = await SpookVooperAPI.Economy.GetStockBuyPrice(ticker);
-                        Console.WriteLine(value * owner.Amount);
                         stock_values.Add(value * owner.Amount);
                         await Task.Delay(100);
                     }
                 }
             }
 
-            Console.WriteLine($"Networth: ¢{stock_values.Sum()}");    
+            decimal balance = await SpookVooperAPI.Economy.GetBalance(SVID);
+
+            decimal total = balance + stock_values.Sum();
+
+            Console.WriteLine($"Networth: ¢{total}");    
         }
     }
 }

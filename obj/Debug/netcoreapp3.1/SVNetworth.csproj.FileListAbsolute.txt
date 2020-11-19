@@ -15,3 +15,20 @@ C:\Users\Kompot\Documents\Csharp coding\SVNetworth\obj\Debug\netcoreapp3.1\SVNet
 C:\Users\Kompot\Documents\Csharp coding\SVNetworth\obj\Debug\netcoreapp3.1\SVNetworth.pdb
 C:\Users\Kompot\Documents\Csharp coding\SVNetworth\obj\Debug\netcoreapp3.1\SVNetworth.genruntimeconfig.cache
 C:\Users\Kompot\Documents\Csharp coding\SVNetworth\obj\Debug\netcoreapp3.1\SVNetworth.csproj.CoreCompileInputs.cache
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SVNetworth.exe
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SVNetworth.deps.json
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SVNetworth.runtimeconfig.json
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SVNetworth.runtimeconfig.dev.json
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SVNetworth.dll
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SVNetworth.pdb
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SpookVooper.Api.dll
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\bin\Debug\netcoreapp3.1\SpookVooper.Api.pdb
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.csprojAssemblyReference.cache
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.AssemblyInfoInputs.cache
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.AssemblyInfo.cs
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.csproj.CoreCompileInputs.cache
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.csproj.CopyComplete
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.dll
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.pdb
+C:\Users\Kompot\Documents\GitHub\SVNetworth-generator\obj\Debug\netcoreapp3.1\SVNetworth.genruntimeconfig.cache
