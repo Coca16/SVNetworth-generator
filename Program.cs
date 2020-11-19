@@ -37,7 +37,8 @@ namespace SVNetworth
 
             decimal total = balance + stock_values.Sum();
 
-            Console.WriteLine($"Networth: ¢{total}");    
+            Console.WriteLine($"Networth: ¢{total}\nPress enter to end program.");
+            Console.ReadKey();
         }
     }
 }
