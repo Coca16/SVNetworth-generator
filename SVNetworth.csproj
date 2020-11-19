@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SpookVooper.Api\**" />
+    <EmbeddedResource Remove="SpookVooper.Api\**" />
+    <None Remove="SpookVooper.Api\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="SpookVooper.Api\SpookVooper.Api\SpookVooper.Api.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties tickers_1json__JsonSchema="http://json.schemastore.org/apibuilder.json" /></VisualStudio></ProjectExtensions>
+
+</Project>
