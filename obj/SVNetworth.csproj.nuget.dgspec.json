@@ -102,6 +102,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.28, )"
+            },
             "System.Collections": {
               "target": "Package",
               "version": "[4.3.0, )"

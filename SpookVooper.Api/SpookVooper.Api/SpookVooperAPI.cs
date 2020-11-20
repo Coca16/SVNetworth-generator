@@ -304,9 +304,12 @@ namespace SpookVooper.Api
                 #pragma warning disable 0168
                 catch (System.Exception e)
                 {
-                    throw new VooperException($"Malformed response: {response}");
+                    if (e.Message == "Value cannot be null. (Parameter 's')")
+                        return 9995654632999;
+                    else
+                        throw new VooperException($"Malformed response: {response}");
                 }
-                #pragma warning restore 0168
+#pragma warning restore 0168
 
                 return result;
             }

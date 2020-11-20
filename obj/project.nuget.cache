@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a2ekQxrHhguqdGZlgaH2Dy07MFJLz4mxSrbuFtnaUhpp3Se+YFRq5Mhg9NgeGf5qrpC+iVZEo/uXL1qc4MqVGg==",
+  "dgSpecHash": "hBaf47b4I3NZzLu06WAZGjleWl6hkj//Sy8oB05yC8uZWPctKzQ4Ooxp+R77+Qo27S3yvpnmdhTxRBRx0+vMFA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kompot\\Documents\\GitHub\\SVNetworth-generator\\SVNetworth.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Kompot\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512",
     "C:\\Users\\Kompot\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Kompot\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Kompot\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
